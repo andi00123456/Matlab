@@ -1,5 +1,3 @@
-live image capture : demoimaq_GetSnapshot.m
+install the 2 add-ons in the Add-ons folder
 
-single image capture : web_camgettingstarted.m
-
-
+run the code in main.m
